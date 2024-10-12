@@ -8,8 +8,7 @@ Please download dataset from google drive link.
 
 ### Trained Models Checkpoints 
 Trained models checkpoints can be found in following link.<br>
-PWD: 1234 <br>
-Biadu Pan:  https://pan.baidu.com/s/1Kq4w_sc8EBKA1-90iN6Hpg?pwd=1234
+Gdrive: https://drive.google.com/drive/folders/1qj5e3j5K3EIRReCnmiji62vs1M0S6NX9?usp=sharing
 
 
 
