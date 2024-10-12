@@ -1,4 +1,4 @@
-# FPAB-Afford 
+# FPHA-Afford 
 A Challenging object affordance dataset for human-object-robot interaction. <br> 
 Please download dataset from google drive link.
 
