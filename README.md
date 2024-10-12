@@ -7,8 +7,8 @@ Please download dataset from google drive link.
 
 
 ### Checkpoints 
-Trained models checkpoints can be found in following link.
-PWD: 1234
+Trained models checkpoints can be found in following link.<br>
+PWD: 1234 <br>
 Biadu Pan:  https://pan.baidu.com/s/1Kq4w_sc8EBKA1-90iN6Hpg?pwd=1234
 
 
