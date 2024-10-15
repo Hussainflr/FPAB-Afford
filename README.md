@@ -19,7 +19,7 @@ Gdrive: https://drive.google.com/drive/folders/1qj5e3j5K3EIRReCnmiji62vs1M0S6NX9
 
 #### If you find this helpful please consider our paper.
 
-@INPROCEEDINGS{9190733,
+$`@INPROCEEDINGS{9190733,
   author={Hussain.S, S.Muzamil and Liu, Liu and Xu, Wenqiang and Lu, Cewu},
   booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
   title={FPHA-Afford: A Domain-Specific Benchmark Dataset for Occluded Object Affordance Estimation in Human-Object-Robot Interaction}, 
@@ -28,4 +28,4 @@ Gdrive: https://drive.google.com/drive/folders/1qj5e3j5K3EIRReCnmiji62vs1M0S6NX9
   number={},
   pages={1416-1420},
   keywords={Estimation;Videos;Robots;Semantics;Task analysis;Machine learning;Feature extraction;Human-Object-Robot Interaction;Object Affordance Estimation;Semantic Segmenation;FPHA-Afford},
-  doi={10.1109/ICIP40778.2020.9190733}}
+  doi={10.1109/ICIP40778.2020.9190733}}`$
