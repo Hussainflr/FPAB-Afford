@@ -18,7 +18,6 @@ Please download dataset from google drive link.
 Trained models checkpoints can be found in following link.<br>
 Gdrive: https://drive.google.com/drive/folders/1qj5e3j5K3EIRReCnmiji62vs1M0S6NX9?usp=sharing
 
-### Video 
 
 #### If you find this helpful please consider cite our paper.
 
